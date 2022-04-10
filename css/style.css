@@ -1,0 +1,37 @@
+body{
+  font: 20px Arial, sans-serif;
+}
+
+.navbar {
+  background: #F2F2F2;
+  color: #000;
+}
+
+.quem-somos{
+  background: #8BD1D9;
+  color: #fff;
+  }
+
+.parceiros{
+   background: #F2F2F2;
+
+}
+
+.margin{
+  padding-top: 13px;
+  padding-bottom: 50px;
+}
+
+.favela{
+  margin-top: 100px;
+}
+
+.caio{
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+.bg-footer{
+  background: #8BD1D9;
+}
